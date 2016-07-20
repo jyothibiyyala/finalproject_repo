@@ -1,17 +1,5 @@
 # humanstxt.org/
-# The humans responsible & technology colophon
-
-# TEAM
-
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+# The humans responsible & technology colony
 This is for the pull demonstration purpose 
 This is for the push demonstration purpose
+for final project
