@@ -2,4 +2,4 @@ This is for the pull demonstration purpose
 This is for the push demonstration purpose
 this the final practice purpose change
 this is for undo changes using revert reset checkout
-
+this is for undo changes using reset
